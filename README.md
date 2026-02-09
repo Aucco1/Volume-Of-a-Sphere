@@ -12,7 +12,8 @@ The project serves as a visual metaphor for mathematical convergence, mapping th
 
 ## Demo
 
-![Uploading sphere_volume-ezgif.com-video-to-gif-converter.gif…]()
+
+![sphere_volume-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/687bbb39-402a-4d99-9f95-7099519fdc7a)
 
 
 
