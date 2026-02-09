@@ -4,12 +4,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Matplotlib](https://img.shields.io/badge/Render-Matplotlib-orange)
 
-## Abstract
-
-This repository contains a Python-based visualization tool that demonstrates the relationship between numerical precision and geometric resolution. By computing the volume of a sphere using arbitrary-precision arithmetic (`mpmath`), the script simultaneously renders a 3D wireframe mesh that evolves from a low-polygon approximation to a high-fidelity sphere.
-
-The project serves as a visual metaphor for mathematical convergence, mapping the decimal precision of the calculated volume to the vertex density of the 3D object.
-
 ## Demo
 
 
