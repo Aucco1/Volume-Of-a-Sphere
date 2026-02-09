@@ -2,6 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Matplotlib](https://img.shields.io/badge/Render-Matplotlib-orange)
 
 ## Abstract
 
@@ -11,7 +12,9 @@ The project serves as a visual metaphor for mathematical convergence, mapping th
 
 ## Demo
 
-![Simulation Preview](https://via.placeholder.com/800x400?text=Replace+this+with+your+GIF+or+Screenshot)
+![Uploading sphere_volume-ezgif.com-video-to-gif-converter.gif…]()
+
+
 
 > *Figure 1: Visual output demonstrating the convergence of mesh resolution (polygons) alongside the increasing decimal precision of the calculated volume.*
 
@@ -32,28 +35,11 @@ Where $R_{min} = 4$ and $R_{max} = 60$.
 Ensure you have Python 3.8+ installed. This project requires `ffmpeg` for video rendering.
 
 ### 1. Clone the Repository
-```bash
 https://github.com/Aucco1/Volume-Of-a-Sphere.git
 gh repo clone Aucco1/Volume-Of-a-Sphere
 
 ### 2. Install Python Dependencies
-
-```bash
 pip install numpy matplotlib mpmath
-
-### 3. Install FFmpeg
-The animation writer requires FFmpeg to save the output file.
-
-* **macOS:** `brew install ffmpeg`
-* **Linux:** `sudo apt install ffmpeg`
-* **Windows:** Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to system PATH.
-
-## Usage
-
-Execute the script to generate the animation. The output will be saved as `sphere_volume.mp4` in the working directory.
-
-```bash
-python sphere_anim.py
 
 ## Configuration
 
